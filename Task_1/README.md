@@ -1,4 +1,6 @@
-# This Project was part of my internship under Oasis Infotech
+# Responsive Calculator
+
+## This Project was part of my internship under Oasis Infotech
 
 ### **Project Overview:**
 The Responsive Calculator is designed to provide users with a seamless and intuitive experience, whether they’re using a desktop, tablet, or mobile device. The primary goal was to create a tool that is not only functional but also visually appealing and easy to navigate.
