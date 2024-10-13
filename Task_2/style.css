@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(233, 185, 167);
+    scroll-behavior: smooth;
+    
+}
+.main{
+    background: scroll;
+    height: 150vmin;
+    margin: 2vmin;
+    padding: 8vmin;
+    /* background-color: azure; */
+  
+
+}
+.inner{
+    height: 40vmin;
+    margin : 1vmin;
+    padding: 5vmin;
+    /* background-color: cadetblue; */
+    display: flex;
+    gap: 12vmin
+}
+.intro>p{
+    font-size: 16vmin;
+    text-align: center;
+}
+.outline{
+    font-size: 8vmin;
+    color: white;
+}
+.rev{
+    flex-direction: row-reverse;
+}
+.conte{
+    border-radius: 3vmin;
+    margin-bottom: .8vmin;
+    /* background-color: rgb(0, 0, 0); */
+    height : 42vmin;
+    width  : 50vw;
+    color: white;
+    font-size: 3vmin;
+    text-align: center;
+    font-weight: 100;
+}
+.image{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 3vmin;
+    margin-bottom:.8vmin; 
+    background-color: red;
+    height: 42vmin;
+    width: 58vmin;
+}
+p{
+    padding: 3vmin;
+}
+.image1{
+    background-image:url(ai-generated-8671475.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image2{
+    background-image: url(ai-generated-8604086.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image3{
+    background-image: url(albert-einstein-8812164.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
