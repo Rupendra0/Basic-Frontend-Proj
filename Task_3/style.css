@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(after-the-rain-8311416.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(231, 231, 231);
+    font-weight: 900;
+    margin-top: 3vmin;
+
+}
+.login-box{
+    margin: 15vmin;
+    height:75vmin;
+    width:25vw;
+    background-color: rgba(245, 245, 245, 0.093);
+    display: flex;
+    align-items: center;
+    border-radius: 5vmin;
+   
+    flex-direction: column;
+}
+h4{
+    font-size: 3vmin;
+    margin-left: 2vmin ;
+    margin: 2vmin;
+    color: rgb(232, 232, 232);
+}
+#Username{
+    background-color: rgba(245, 222, 179, 0.838);
+    width: 20vw;
+    height: 4vmin;
+    border: none;
+    border-radius: 2vmin;
+    text-align: start;
+    padding: 2vmin;
+}
+#submitButton:hover{
+    background-color: green;
+}
+#submitButton{
+    font-size: 15px;
+    font-weight: bold;
+   display: flex;
+   text-align: center;
+   justify-content: center;
+    align-items: center;
+    border: none;
+    width: 15vw;
+    height: 6vmin;
+    margin: 7vmin;
+    background-color: rgb(112, 175, 17);
+    border-radius: 3vmin;
+}
+#forgot{
+    display: flex;
+    justify-content: flex-end;
+    margin: 2vmin;
+}
+#signup{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: rgb(193, 126, 255);
+}
+
+
