@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #1d3557;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    background-color: #cdb4db;
+    height: 87vh;
+    width: 33vw;
+    margin: 5vmin;
+    border-radius: 10%;
+}
+
+.header{
+     height: 25vmin;
+     width: 100%;
+     margin-top: 1vmin;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     
+}
+h2{
+    font-size: 6vmin;
+    color: black;
+    font-weight: 900;
+    margin: 1vmin;
+}
+.input{
+    height: 15vmin ;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#myInput{
+    font-size: 2.5vmin;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 6vmin;
+    width: 20vw;
+    border: none;
+    border-radius: 4vmin;
+    padding-left: 2vmin;
+    margin: 1vmin;
+}
+.addBtn{
+    font-size: 2.5vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vmin;
+    width: 6vw;
+    border: none;
+    background-color: rgb(151, 14, 14);
+    border-radius: 2vmin;
+}
+.addBtn:hover{
+    cursor: pointer;
+    background-color: yellowgreen;
+    color: white;
+}
+.task{
+   width: 100%;
+   /* background-color: ; */
+   height: 68vh;
+   margin: 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+#myUL{
+    /* background-color: bisque; */
+    font-size:  18px;
+    text-align:left;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start baseline;
+    width: 72%;
+    height: 60vh ;
+    list-style:none;
+    /* padding-left: vmin; */
+    gap: 3vmin;
+    color: black;
+   
+
+}
+#clear-list{
+    margin-top: .5vmin;
+    border: none;
+    border-radius: 3vmin;
+    height: 6vmin;
+    width: 10vw;
+    background-color: skyblue;
+    font-size: 2.5vmin;
+    font-weight: 500;
+}
+#clear-list:hover{
+    background-color: red;
+    color: white;
+}
+
+    
+
