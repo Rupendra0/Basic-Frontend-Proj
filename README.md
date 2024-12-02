@@ -1,5 +1,5 @@
  <h1 style = "text-allign : center" >Basic Frontend Proj</h1>
-### This Repositry contains Exercise Question Named as Task No.
+<h3>This Repositry contains Exercise Question Named as Task No. <h3>
 
 
 ## Task 1 :- Responsive Calculator
